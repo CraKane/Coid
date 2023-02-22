@@ -1,4 +1,4 @@
-# REFIL
+# Coid
 Code for [*Randomized Entity-wise Factorization for Multi-Agent Reinforcement Learning*](https://arxiv.org/abs/2006.04222) (Iqbal et al., ICML 2021)
 
 This codebase is built on top of the [PyMARL](https://github.com/oxwhirl/pymarl) framework for multi-agent reinforcement learning algorithms.
